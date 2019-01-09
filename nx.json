@@ -1,0 +1,18 @@
+{
+  "npmScope": "ng-console-test1",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "main": {
+      "tags": []
+    },
+    "main-e2e": {
+      "tags": []
+    }
+  }
+}
